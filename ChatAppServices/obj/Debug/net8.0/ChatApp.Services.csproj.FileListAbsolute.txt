@@ -1,0 +1,16 @@
+/Users/yusuf/software/web/server/ASP.NET/ChatApp/ChatAppServices/bin/Debug/net8.0/ChatApp.Services.deps.json
+/Users/yusuf/software/web/server/ASP.NET/ChatApp/ChatAppServices/bin/Debug/net8.0/ChatApp.Services.dll
+/Users/yusuf/software/web/server/ASP.NET/ChatApp/ChatAppServices/bin/Debug/net8.0/ChatApp.Services.pdb
+/Users/yusuf/software/web/server/ASP.NET/ChatApp/ChatAppServices/bin/Debug/net8.0/ChatApp.Data.dll
+/Users/yusuf/software/web/server/ASP.NET/ChatApp/ChatAppServices/bin/Debug/net8.0/ChatApp.Data.pdb
+/Users/yusuf/software/web/server/ASP.NET/ChatApp/ChatAppServices/obj/Debug/net8.0/ChatApp.Services.csproj.AssemblyReference.cache
+/Users/yusuf/software/web/server/ASP.NET/ChatApp/ChatAppServices/obj/Debug/net8.0/ChatApp.Services.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yusuf/software/web/server/ASP.NET/ChatApp/ChatAppServices/obj/Debug/net8.0/ChatApp.Services.AssemblyInfoInputs.cache
+/Users/yusuf/software/web/server/ASP.NET/ChatApp/ChatAppServices/obj/Debug/net8.0/ChatApp.Services.AssemblyInfo.cs
+/Users/yusuf/software/web/server/ASP.NET/ChatApp/ChatAppServices/obj/Debug/net8.0/ChatApp.Services.csproj.CoreCompileInputs.cache
+/Users/yusuf/software/web/server/ASP.NET/ChatApp/ChatAppServices/obj/Debug/net8.0/ChatApp.Services.sourcelink.json
+/Users/yusuf/software/web/server/ASP.NET/ChatApp/ChatAppServices/obj/Debug/net8.0/ChatApp..15D1CE8D.Up2Date
+/Users/yusuf/software/web/server/ASP.NET/ChatApp/ChatAppServices/obj/Debug/net8.0/ChatApp.Services.dll
+/Users/yusuf/software/web/server/ASP.NET/ChatApp/ChatAppServices/obj/Debug/net8.0/refint/ChatApp.Services.dll
+/Users/yusuf/software/web/server/ASP.NET/ChatApp/ChatAppServices/obj/Debug/net8.0/ChatApp.Services.pdb
+/Users/yusuf/software/web/server/ASP.NET/ChatApp/ChatAppServices/obj/Debug/net8.0/ref/ChatApp.Services.dll
